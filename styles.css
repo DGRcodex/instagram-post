@@ -1,0 +1,33 @@
+body{
+    background: black
+}
+
+.post{
+    background: grey;
+    height: 600px;
+    width: 500px;
+
+}
+
+.img {
+    margin: auto;
+    width: 480px;
+
+}
+
+
+.texto{
+    background: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.container{
+   width: 400px;
+    margin:auto
+}
+
+.iconos {
+    height: 50px;
+    background: white;
+}
